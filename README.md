@@ -1,5 +1,7 @@
 # 👋 Hey there, I'm Abinash Parida!
 
+<!-- ✅ DO NOT wrap in triple backticks! -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hustling+🚀;Coding+💻;Grinding+🔥;Improving+📈;Learning+📚;Building+Projects+🛠️;Debugging+Life+😅" alt="Typing Animation" />
 </p>
