@@ -1,5 +1,9 @@
 # 👋 Hey there, I'm Abinash Parida!
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hustling+🚀;Coding+💻;Grinding+🔥;Improving+📈;Learning+📚;Building+Projects+🛠️;Debugging+Life+😅" alt="Typing SVG" />
+</p>
+
 > *Computer Engineer by degree, Debugger of Life by profession.*
 
 I'm a curious and driven Full Stack & Flutter Developer 🚀 navigating the ever-evolving landscape of code, creativity, and clean architecture. I thrive on building scalable, purposeful applications that deliver real-world impact — not just fancy UI for screenshots.
