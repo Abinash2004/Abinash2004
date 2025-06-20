@@ -45,7 +45,7 @@ I'm a curious and driven Full Stack & Flutter Developer 🚀 navigating the ever
 🧠 Smart search, blazing fast APIs, 85% improved user satisfaction
 
 ### 🧼 [PurifyT5 – AI Text Sanitization App](https://github.com/Abinash2004/PurifyT5) • [Live Demo](https://mild-shoshanna-abinashparida-5307eebe.koyeb.app/)  
-> *Cleans up toxic text like your mom cleans up your browser history.*  
+> *Cleans up toxic text like you clean up your browser history.*  
 🤖 Flask + PyTorch + T5 Model • Sanitizes explicit comments with 80%+ accuracy  
 ⚡ Fast inference + API ready
 
