@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Abinash Parida!
 
-<!-- ✅ DO NOT wrap in triple backticks! -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hustling+🚀;Coding+💻;Grinding+🔥;Improving+📈;Learning+📚;Building+Projects+🛠️;Debugging+Life+😅" alt="Typing Animation" />
 </p>
@@ -64,17 +62,18 @@ I'm a curious and driven Full Stack & Flutter Developer 🚀 navigating the ever
 
 ---
 
-## 📊 GitHub Stats (Don't judge my dark mode addiction)
+## 📊 GitHub Stats (All-time activity, not just 2025)
 
-![Abinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinash2004&show_icons=true&theme=radical)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash2004&layout=compact&theme=radical)
+![Abinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinash2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash2004&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect (or just stalk professionally)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinashparida28/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abinash_p28)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abinash2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinashparida28/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abinash_p28)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abinash2004)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abinashparida2021@gmail.com)
 
 ---
