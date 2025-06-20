@@ -9,17 +9,20 @@ I'm a curious and caffeinated Full Stack + Flutter Developer 🚀 currently navi
 ## 💻 Tech Stack
 
 **Languages:**  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frontend:**  
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Tools:**  
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -71,6 +74,6 @@ I'm a curious and caffeinated Full Stack + Flutter Developer 🚀 currently navi
 
 ---
 
-## 📄 [My Resume (Google Drive)](https://drive.google.com/drive/folders/1gXEtzb0Jk4ErHRsaRG2f0oc4tKufwALW?usp=sharing)
+## 📄 [My Resume (Google Drive)](https://drive.google.com/drive/folders/1VgBitIUK2R8K85HN0Burn4UkmG4lOsDt?usp=sharing)
 
 > Thanks for scrolling all the way down. You're either very interested... or very jobless. Either way, I respect the hustle. 😄
