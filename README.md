@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Abinash Parida!
 
 <p align="center">
-  <img src="https://readme-typing-svg.koyeb.app?font=Fira+Code&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hustling+🚀;Coding+💻;Grinding+🔥;Improving+📈;Learning+📚;Building+Projects+🛠️;Debugging+Life+😅" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF69B4&size=20&center=true&vCenter=true&width=500&lines=Coding+...;Streaming+...;Anime+Binging+..." alt="Typing SVG" />
 </p>
 
 > *Computer Engineer by degree, Debugger of Life by profession.*
