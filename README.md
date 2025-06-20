@@ -64,8 +64,7 @@ I'm a curious and driven Full Stack & Flutter Developer 🚀 navigating the ever
 
 ## 📊 GitHub Stats (All-time activity, not just 2025)
 
-![Abinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinash2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash2004&layout=compact&theme=radical)
+![Abinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinash2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash2004&layout=compact&theme=radical)
 
 ---
 
