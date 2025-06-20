@@ -1,8 +1,9 @@
 # 👋 Hey there, I'm Abinash Parida!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=30&center=true&vCenter=true&width=600&duration=1000&pause=300&lines=← HUSTLING →;← CODING →;← GRINDING →;← IMPROVING →;← LEARNING →;← BUILDING →;←DEBUGGING→;←DEPLOYING→;←DESIGNING→;←REFACTORING→;←INNOVATING→;←EXPLORING→;←OPTIMIZING→;←GROWING→;←CRASHING→;←COMMITTING→;←PUSHING→;←REVISING→;←UPSKILLING→;←SURVIVING→;←PROBLEM-SOLVING→;←DREAMING→;←RELOADING→;←QUESTIONING→;←THINKING→;←ITERATING→;←UPGRADING→;←RESTARTING→;←EXECUTING→;←BRAINSTORMING→" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=30&center=true&vCenter=true&width=600&duration=1000&pause=300&lines=←+HUSTLING+→;←+CODING+→;←GRINDING→;←IMPROVING→;←LEARNING→;←BUILDING→;←DEBUGGING→;←DEPLOYING→;←DESIGNING→;←REFACTORING→;←INNOVATING→;←EXPLORING→;←OPTIMIZING→;←GROWING→;←CRASHING→;←COMMITTING→;←PUSHING→;←REVISING→;←UPSKILLING→;←SURVIVING→;←PROBLEM-SOLVING→;←DREAMING→;←RELOADING→;←QUESTIONING→;←THINKING→;←ITERATING→;←UPGRADING→;←RESTARTING→;←EXECUTING→;←BRAINSTORMING→" alt="Typing SVG" />
 </p>
+
 
 > *Computer Engineer by degree, Debugger of Life by profession.*
 
