@@ -2,7 +2,7 @@
 
 > *Computer Engineer by degree, Debugger of Life by profession.*
 
-I'm a curious and caffeinated Full Stack + Flutter Developer 🚀 currently navigating through the magical chaos of code, caffeine, and career. Passionate about building scalable apps that actually **do stuff**, not just sit there looking pretty. And yes, I might crack jokes at compile time.
+I'm a curious and driven Full Stack & Flutter Developer 🚀 navigating the ever-evolving landscape of code, creativity, and clean architecture. I thrive on building scalable, purposeful applications that deliver real-world impact — not just fancy UI for screenshots.
 
 ---
 
