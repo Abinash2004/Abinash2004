@@ -75,4 +75,4 @@ I'm a curious and driven Full Stack & Flutter Developer 🚀 navigating the ever
 
 ## 📄 [My Resume (Google Drive)](https://drive.google.com/drive/folders/1VgBitIUK2R8K85HN0Burn4UkmG4lOsDt?usp=sharing)
 
-> Thanks for scrolling all the way down. You're either very interested... or very jobless. Either way, I respect the hustle. 😄
+> Thanks for scrolling all the way down. You're either very interested... or very jobless. Either way, I respect the hustle.
