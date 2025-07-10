@@ -38,20 +38,27 @@ I'm a curious and driven Full Stack & Flutter Developer 🚀 navigating the ever
 
 ## 🧠 Built with caffeine and love...
 
-### 🔧 [Oversight – Coaching Finance Tracker App](https://github.com/Abinash2004/Oversight)  
-> *Built for real-life chaos control – finance edition.*  
-📱 Flutter + Firebase • Used by 100+ students & 10+ staff  
-🧾 Role-based auth, real-time notifications, and 70% time saved on accounting
-
-### 📚 [Review Hub – Real-Time Book Review Aggregator](https://github.com/Abinash2004/ReviewHub) • [Live Demo](https://reviewhub-v62d.onrender.com/)  
+### 📚 [Review Hub – Real-Time Book Review Aggregator](https://github.com/Abinash2004/ReviewHub) • [Live Demo](https://reviewhub-v62d.onrender.com/)
 > *Your personal literature stalker (in a good way).*  
-🕸️ React + Node + MongoDB • Aggregates 5,000+ reviews across platforms  
+🕸️ **Stack**: React + Node.js + MongoDB  
+📊 Aggregates 5,000+ reviews across platforms (Reddit, Google Books, Goodreads)  
 🧠 Smart search, blazing fast APIs, 85% improved user satisfaction
 
-### 🧼 [PurifyT5 – AI Text Sanitization App](https://github.com/Abinash2004/PurifyT5) • [Live Demo](https://mild-shoshanna-abinashparida-5307eebe.koyeb.app/)  
+---
+
+### 🧼 [PurifyT5 – AI Text Sanitization App](https://github.com/Abinash2004/PurifyT5) • [Live Demo](https://mild-shoshanna-abinashparida-5307eebe.koyeb.app/)
 > *Cleans up toxic text like you clean up your browser history.*  
-🤖 Flask + PyTorch + T5 Model • Sanitizes explicit comments with 80%+ accuracy  
-⚡ Fast inference + API ready
+🤖 **Stack**: Flask + PyTorch + T5 Transformer  
+🧪 Sanitizes explicit comments with 80%+ accuracy on real-world data  
+⚡ Fast API inference (~750 chars in under 25s), Hugging Face deployment ready
+
+---
+
+### 🎒 [Smart Lost & Found System – AI-Powered Claim Verification](https://github.com/Abinash2004/Smart-Lost-and-Found) • [Live Site](https://smart-lost-found-frontend.onrender.com)
+> *AI meets lost property — no more “Is this yours?” emails.*  
+🧩 **Stack**: React + Node.js + MongoDB + Redis  
+📦 Full claim system with OTP-based user auth, image proof, and resolution flow  
+🧠 Custom-trained AI model (SimPulse) ranks claims with 92.3% accuracy and <1.5s response time
 
 ---
 
