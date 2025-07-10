@@ -54,7 +54,7 @@ I'm a curious and driven Full Stack & Flutter Developer 🚀 navigating the ever
 
 ---
 
-### 🎒 [Smart Lost & Found System – AI-Powered Claim Verification](https://github.com/Abinash2004/Smart-Lost-and-Found) • [Live Site](https://smart-lost-found-frontend.onrender.com)
+### 🎒 [Smart Lost & Found System – AI-Powered Claim Verification](https://github.com/Abinash2004/Smart-Lost-and-Found) • [Live Demo](https://smart-lost-found-frontend.onrender.com)
 > *AI meets lost property — no more “Is this yours?” emails.*  
 🧩 **Stack**: React + Node.js + MongoDB + Redis  
 📦 Full claim system with OTP-based user auth, image proof, and resolution flow  
