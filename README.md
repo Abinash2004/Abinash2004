@@ -18,11 +18,3 @@
     <img src="https://skillicons.dev/icons?i=python,dart,cpp,js,react,flutter,tailwind,nodejs,express,mongodb,mysql,firebase,postman&perline=8" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abinash2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
-</p>
