@@ -9,8 +9,15 @@
 
 ---
 
+### 📚 Currently Learning
+- FastAPI  
+- Microservices  
+- Model Fine-Tuning
+
+---
+
 ### 🛠 Languages and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,dart,cpp,js,react,flutter,tailwind,nodejs,express,mongodb,mysql,firebase,postman,git,pytorch,flask,tf&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,dart,cpp,js,react,flutter,tailwind,nodejs,express,mongodb,mysql,firebase,postman,git,pytorch,flask&perline=8" />
 </a>
