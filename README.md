@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Abinash2004&label=Profile%20views&color=0e75b6&style=flat" alt="Abinash Parida"/> 
 </p>
 
-### 🌱 I’m currently learning
-- Microservices
-- Cloud Deployment & DevOps
-- Advanced AI/ML Techniques
-
 ### 📫 Get in Touch
 - Feel free to contact me at [abinashparida2021@gmail.com](mailto:abinashparida2021@gmail.com) for opportunities.
 
