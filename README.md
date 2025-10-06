@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abinash Parida
+# Hi, I'm Abinash Parida
 
 ### I'm a passionate Full Stack Developer | AI/ML Enthusiast
 
