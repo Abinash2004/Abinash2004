@@ -10,10 +10,8 @@
 ---
 
 ### 📚 Currently Learning
-- FastAPI  
-- Microservices  
-- Model Fine-Tuning
-
+- Containerization - Docker 
+- Brushing Old Scars
 ---
 
 ### 🛠 Languages and Tools
