@@ -19,5 +19,5 @@
 ### 🛠 Languages and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,dart,cpp,js,react,flutter,tailwind,nodejs,express,mongodb,mysql,firebase,postman,git,docker,pytorch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,dart,cpp,js,react,flutter,nodejs,express,mongodb,mysql,firebase,postman,git,docker&perline=7" />
 </a>
