@@ -10,9 +10,6 @@
 ---
 
 ### 📚 Currently Learning
-- PyTorch + Scikit-learn
-- Data Preprocessing
-- Feature Engineering
 - Brushing Old Scars
 ---
 
