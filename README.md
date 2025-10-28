@@ -1,33 +1,26 @@
-# Hi, I'm Abinash Parida 👋  
+# 👋 Hi, I'm Abinash Parida  
 
-### 🚀 Backend Engineer | Full Stack Developer | AI/ML Enthusiast  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abinash2004&label=Profile%20views&color=0e75b6&style=flat)
+### Backend Engineer | AI Integration & System Design Enthusiast
 
 ---
 
-### 📫 Get in Touch  
-- Drop me an email at [abinashparida2021@gmail.com](mailto:abinashparida2021@gmail.com) for collaboration or opportunities.  
-- Always open to challenging projects that blend **backend engineering, AI integration, and scalable system design.**
+## ⚙️ What I Do  
+I build and maintain backend systems that are reliable, efficient, and easy to scale.  
+I integrate AI and automation into applications to enhance intelligence and user experience.  
+I optimize performance and workflows through clean architecture and structured development.  
+I focus on writing secure, maintainable code that supports long-term scalability.
 
 ---
 
-### 🧠 What I Do  
-- Design **scalable backend systems** and **microservices** for high-performance applications.  
-- Integrate **AI/ML models** (Transformers, embeddings, regressors) into production-ready systems.  
-- Build clean, secure, and maintainable **RESTful APIs** with strong data consistency and authentication layers.  
-- Optimize deployment pipelines using **Docker, Redis, and cloud-hosted services**.  
+## 🧠 Currently Learning  
+- Networking Concepts  
+- System Design Fundamentals 
+- Containerization & Deployment Pipelines    
+- Data Preprocessing & Feature Engineering  
 
 ---
 
-### 📚 Currently Exploring  
-- Advanced **System Design Patterns**  
-- **MLOps pipelines** & **model deployment automation**  
-- Improving latency & scalability for AI-integrated backends  
-
----
-
-### 🛠 Languages and Tools  
+## 🛠 Languages and Tools  
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,nodejs,express,react,flask,pytorch,postgresql,mysql,mongodb,redis,docker,git,postman&perline=8" />
@@ -35,5 +28,11 @@
 
 ---
 
-### ⚡ Fun Fact  
-I can’t rest until my code runs clean — productivity is my default mode.
+## 🔗 Get in Touch  
+- 📧 [abinashparida2021@gmail.com](mailto:abinashparida2021@gmail.com)  
+- Open to collaborations and engineering challenges involving backend scalability or AI integration.  
+
+---
+
+## ⚡ Fun Fact  
+Every commit a bit cleaner, faster, and smarter than the last.
