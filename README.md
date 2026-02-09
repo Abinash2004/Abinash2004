@@ -4,10 +4,10 @@
 
 ---
 
-## Currently Learning  
-- Networking Concepts
-- System Design Fundamentals 
-- Containerization & Deployment Pipelines  
+## Currently Learning
+- Networking Fundamentals
+- Multi-Threading & Concurrency
+- Containerization & Deployment Pipelines
 
 ---
 
