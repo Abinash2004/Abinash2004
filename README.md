@@ -1,12 +1,14 @@
 # Hi, I'm Abinash Parida  
 
-### Backend Engineer | System Design Enthusiast
+### Software Engineer | System & Product Engineering
+
+I enjoy understanding how things work, solving problems, and turning ideas into reliable solutions.
 
 ---
 
 ## Currently Learning
-- Networking Fundamentals
-- Multi-Threading & Concurrency
+- System Design Fundamentals
+- WebRTC & Real-Time Communication
 - Containerization & Deployment Pipelines
 
 ---
@@ -19,4 +21,4 @@
 
 ---
 
-### Get in Touch - [abinashparida2021@gmail.com](mailto:abinashparida2021@gmail.com)  
+### Get in Touch - [abinashparida2021@gmail.com](mailto:abinashparida2021@gmail.com)
